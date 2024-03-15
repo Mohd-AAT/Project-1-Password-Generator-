@@ -1,1 +1,1 @@
-# Project-1-Password-Generator-
+# Project-2-Password-Generator
